@@ -2,7 +2,7 @@
 "use strict";
 
 console.log('arr' + " - object");
-console.log(4 + "6");
+console.log(4 + "10");
 
 let incr = 10,
     decr = 10;
@@ -17,7 +17,7 @@ console.log(--decr);
 
 console.log(5%2);
 
-// Операторы сравнения.
+// Операторыgit сравнения.
 
 console.log(2 + 2 * 2 != 8);
 
