@@ -17,7 +17,7 @@ console.log(--decr);
 
 console.log(5%2);
 
-// Операторыgit сравнения.
+// Операторы сравнения.
 
 console.log(2 + 2 * 2 != 8);
 
